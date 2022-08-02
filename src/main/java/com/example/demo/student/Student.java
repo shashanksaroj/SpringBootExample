@@ -25,7 +25,8 @@ public class Student {
     private  String email;
     private LocalDate dob;
 
-    private Integer age;
+    private Integer age
+        ;
 
 
     public Student() {
